@@ -8,5 +8,5 @@ This is just normal text
 - bullets
 
 a | table | head
-- | - | -
+-- | -- | --
 this | is | a row
